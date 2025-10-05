@@ -90,3 +90,27 @@ add git init and push all files to https://github.com/w114056011/aiot_hw1_Linear
 
 ### Gemini
 好的，我將為您初始化 Git 倉庫，並將所有檔案推送到指定的 GitHub 儲存庫。
+
+### User
+專案所使用套件匯出至requirements.txt
+
+### Gemini
+好的，我將為您產生 requirements.txt 檔案。
+
+### User
+push @requirements.txt to git
+
+### Gemini
+好的，您想要將 requirements.txt 推送到 Git 倉庫。
+
+### User
+add demo url https://5114056011-aiot-hw1.streamlit.app/ in readme.md
+
+### Gemini
+好的，我將把 Demo URL 加入到 readme.md 中。
+
+### User
+push to git
+
+### Gemini
+好的，您想要將更新後的 readme.md 推送到 Git 倉庫。
