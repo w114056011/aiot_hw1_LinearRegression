@@ -2,6 +2,10 @@
 
 This project is a Streamlit web application that allows users to interactively explore the concepts of linear regression. You can dynamically adjust the parameters of a synthetic dataset and see how the regression model adapts in real-time.
 
+## Demo
+
+You can try the live application here: [https://5114056011-aiot-hw1.streamlit.app/](https://5114056011-aiot-hw1.streamlit.app/)
+
 ## Features
 
 - **Interactive Parameter Tuning:** Adjust the following parameters using sliders in the sidebar:
